@@ -1,6 +1,7 @@
 # Files
 *.png
 *.jpg
+*.mcstructure
 
 # Folders
 node_modules/
