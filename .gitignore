@@ -1,0 +1,10 @@
+# Files
+*.png
+*.jpg
+
+# Folders
+node_modules/
+test*
+
+# Disabled
+!img/*
